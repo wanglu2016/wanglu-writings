@@ -2,7 +2,7 @@
 
 来自王路豆瓣日记及长评论的分类文集。收录 **2,219 篇**，提供 **110 篇推荐阅读**，欢迎在线阅读或下载保存。
 
-[推荐阅读](catalog/recommended.md) · [长评论](catalog/reviews.md) · [按年份阅读](catalog/years.md)
+[完整著作：书目与 PDF](https://github.com/wanglu2016/wanglu-books) · [推荐阅读](catalog/recommended.md) · [长评论](catalog/reviews.md) · [按年份阅读](catalog/years.md)
 
 ## 按主题阅读
 
