@@ -1,7 +1,7 @@
 {
   "title": "王路文集",
   "edition": "2026-10-07",
-  "article_count": 2219,
+  "article_count": 2218,
   "recommendation_count": 110,
   "articles": [
     {
@@ -17259,33 +17259,6 @@
       ],
       "body_characters": 3877,
       "body_sha256": "75059bfec2c46ee0c59d88436deae1e576b8610c650f3c2374efda17341c1a2e",
-      "images_saved": 0,
-      "images_online": 0,
-      "merged_versions": 1,
-      "variant_paragraphs": 0
-    },
-    {
-      "id": "book-16109918",
-      "title": "丁一：他人有心，予忖度之：偶读《红楼碧看》",
-      "category": "写作、文学与影视",
-      "category_folder": "03-literature",
-      "page_time": "2024-08-09 15:50:06",
-      "author": "丁一",
-      "kinds": [
-        "book_review"
-      ],
-      "recommended": false,
-      "markdown": "articles/03-literature/book-16109918.md",
-      "sources": [
-        {
-          "title": "丁一：他人有心，予忖度之：偶读《红楼碧看》",
-          "kind": "book_review",
-          "url": "https://book.douban.com/review/16109918/",
-          "page_time": "2024-08-09 15:50:06"
-        }
-      ],
-      "body_characters": 3421,
-      "body_sha256": "00f82e1dd940620046e57e1af156bb1fb745171e24cc9b22a84dbf5d019ebe2a",
       "images_saved": 0,
       "images_online": 0,
       "merged_versions": 1,
